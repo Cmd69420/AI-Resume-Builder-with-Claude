@@ -1,0 +1,1 @@
+This is a ai resume builder using claude api for using the project create your key on claude api and replace it in genrate_resume with the "Your key". And since its made in php run xampp and then "localhost/"projectname""
