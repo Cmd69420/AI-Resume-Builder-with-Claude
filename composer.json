@@ -1,0 +1,7 @@
+{
+    "require": {
+        "orhanerday/open-ai": "^5.1",
+        "dompdf/dompdf": "^2.0",
+        "alle-ai/anthropic-api-php": "^1.3"
+    }
+}
