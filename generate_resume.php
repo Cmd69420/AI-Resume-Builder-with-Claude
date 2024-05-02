@@ -5,7 +5,7 @@ require_once __DIR__ . '/vendor/autoload.php';
 use Alle_AI\Anthropic\AnthropicAPI;
 use Dompdf\Dompdf;
 
-$api_key = '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';
+$api_key = 'Your key';
 $anthropic_version = "2023-06-01";
 $anthropic_api = new AnthropicAPI($api_key, $anthropic_version);
 
